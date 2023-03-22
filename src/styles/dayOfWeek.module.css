@@ -1,0 +1,13 @@
+.dayOfWeekBlock {
+  width: 35px;
+  height: 35px;
+  background-color: #08161B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textStyle {
+  color: #CFCFCF;
+  font-weight: bold;
+}
